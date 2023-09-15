@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Seefow</h1>
-<h3 align="center">A vehement frontend developer from Libya</h3>
+<h3 align="center">A vehement frontend developer from Canada/Libya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvenerable&label=Profile%20views&color=3d9e9f&style=flat-square" alt="dreamvenerable" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dreamvenerable" target="blank"><img src="https://img.shields.io/twitter/follow/dreamvenerable?logo=twitter&style=for-the-badge" alt="dreamvenerable" /></a> </p>
 
-- 🔭 I’m currently working on **Chronicle Of Individuals**
+- 🔭 I’m currently working on **Ruby**
 
 - 🌱 I’m currently learning **TheOdinProject**
 
-- 🤝 I’m looking for help with **The Scale**
-
 - 👨‍💻 All of my projects are available at [dreamvenerable.netlify.app](dreamvenerable.netlify.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Space**
 
 - 📫 How to reach me **dreamvenerable@gmail.com**
 
-- ⚡ Fun fact **Outer space is not empty**
+- ⚡ Fun fact **'Empty' outer space is not actually empty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
