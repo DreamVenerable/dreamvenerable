@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seefow</h1>
-<h3 align="center">A vehement Full Stack Ruby on Rails developer from Canada/Libya</h3>
+<h3 align="center">A vehement Ruby on Rails developer from Canada/Libya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvenerable&label=Profile%20views&color=3d9e9f&style=flat-square" alt="dreamvenerable" /> </p>
 
