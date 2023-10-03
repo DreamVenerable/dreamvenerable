@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Space**
 
-- 📫 How to reach me **dreamvenerable@gmail.com**
+- 📫 Reach me on **dreamvenerable@gmail.com**
 
-- ⚡ Fun fact **'Empty'** outer space is not actually empty!
+- ⚡ Fun fact: **'Empty'** outer space is not actually empty!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
