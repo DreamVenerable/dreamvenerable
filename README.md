@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seefow</h1>
+<h1 align="center">Hi, I'm Seefow</h1>
 <h3 align="center">A vehement Ruby on Rails developer from Canada/Libya</h3>
 
 <p align="left"> 
@@ -11,17 +11,17 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Ruby Projects**
+- 🔭 I’m currently working on **Knight Travails**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [dreamvenerable.netlify.app](dreamvenerable.netlify.app)
+- 👨‍💻 All of my projects are available at here on github or [dreamvenerable.netlify.app](dreamvenerable.netlify.app)
 
 - 💬 Ask me about **Space**
 
 - 📫 How to reach me **dreamvenerable@gmail.com**
 
-- ⚡ Fun fact **'Empty' outer space is not actually empty**
+- ⚡ Fun fact **'Empty'** outer space is not actually empty!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
