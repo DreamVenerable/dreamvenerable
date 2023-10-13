@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Knight Travails**
+- 🔭 I’m currently working on **Connect Four**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **TDD**
 
 - 👨‍💻 All of my projects are available at here on github or [dreamvenerable.netlify.app](dreamvenerable.netlify.app)
 
