@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **TDD**
 
-- 👨‍💻 All of my projects are available at here on github or [dreamvenerable.netlify.app](dreamvenerable.netlify.app)
+- 👨‍💻 All of my projects are available at here on github
 
 - 💬 Ask me about **Space**
 
