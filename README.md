@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **TDD**
 
-- 👨‍💻 All of my projects are available at here on github
+- 👨‍💻 All of my projects are available here on github
 
 - 💬 Ask me about **Space**
 
