@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available here on github
 
-- 💬 Ask me about **Space**
+- 💬 Ask me about **Space** or **Medicine**
 
 - 📫 Reach me on **dreamvenerable@gmail.com**
 
