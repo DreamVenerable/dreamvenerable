@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Connect Four**
+- 🔭 I’m currently working on **Odinbook**
 
-- 🌱 I’m currently learning **TDD**
+- 🌱 I’m currently learning **Rails**
 
 - 👨‍💻 All of my projects are available here on github
 
