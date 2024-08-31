@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seefow</h1>
-<h3 align="center">A vehement Ruby on Rails developer from Canada</h3>
+<h3 align="center">Ruby on Rails developer from Canada</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dreamvenerable&label=Profile%20views&color=3d9e9f&style=flat-square" alt="dreamvenerable" /> 
@@ -11,17 +11,15 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Odinbook**
+- 🔭 I’m currently working on **Chess**
 
-- 🌱 I’m currently learning **Rails**
+- 🌱 I’m currently deepening my understanding in **Ruby and Rails**
 
 - 👨‍💻 All of my projects are available here on github
 
 - 💬 Ask me about **Space** or **Medicine**
 
 - 📫 Reach me on **dreamvenerable@gmail.com**
-
-- ⚡ Fun fact: **'Empty'** outer space is not actually empty!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
