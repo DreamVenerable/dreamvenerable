@@ -11,11 +11,11 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Chess**
+- 🔭 I’m currently working on **Ari**, a special AI-powered budget tracking app!
 
 - 🌱 I’m currently deepening my understanding in **Ruby and Rails**
 
-- 👨‍💻 All of my projects are available here on github
+- 👨‍💻 Most of my projects are available here on github
 
 - 💬 Ask me about **Space** or **Medicine**
 
