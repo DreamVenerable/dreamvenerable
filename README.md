@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Ari**, a special AI-powered budget tracking app!
+- 🔭 I’m currently working on **Weft**, an AI-powered reading app that helps you learn languages!
 
 - 🌱 I’m currently deepening my understanding in **Ruby and Rails**
 
